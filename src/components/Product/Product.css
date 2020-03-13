@@ -1,0 +1,26 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+
+}
+.product-name{
+    color: indigo;
+    font-weight: 500;
+}
+.product-image{
+    margin-top: 20px;
+    margin-right: 25px;
+}
+.main-button{
+    background-color: rgb(243, 107, 29);
+    width: 150px;
+    height: 40px;
+    border-color: lightslategrey;
+    border-radius: 5px;
+}
+button span {
+    margin-left: 10px;
+}
